@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<escapada>
+	<encargado n="1">
+		<nombre>Lina</nombre>
+		<viaje>Revisar la furgoneta</viaje>
+		<surf></surf>
+		<barbacoa>Verduras y Salsa</barbacoa>
+		<alojamiento>Gestionar reserva. Quedar con el propietario. Obtener la ubicacion</alojamiento>
+	</encargado>
+	<encargado n="2">
+		<nombre>Mauricio</nombre>
+		<viaje></viaje>
+		<surf>Buscar spots cercanos</surf>
+		<barbacoa>Carbon. Pastillas para encender</barbacoa>
+		<alojamiento>Sabanas</alojamiento>
+	</encargado>
+	<encargado n="3">
+		<nombre>Esteban</nombre>
+		<viaje>Limpiar la furgo al final</viaje>
+		<surf>Mirar prevision</surf>
+		<barbacoa></barbacoa>
+		<alojamiento>Toallas. Sabanas</alojamiento>
+	</encargado>
+	<encargado n="4">
+		<nombre>Elena</nombre>
+		<viaje>Preparar GPS</viaje>
+		<surf>Tablas</surf>
+		<barbacoa>Carne</barbacoa>
+		<alojamiento>Localizar tiendas cercanas. Localizar sitios de interes para visitar</alojamiento>
+	</encargado>
+	<encargado n="5">
+		<nombre>Rosa</nombre>
+		<viaje>Gestionar el dinero</viaje>
+		<surf>Tablas</surf>
+		<barbacoa>Pan</barbacoa>
+		<alojamiento>Gestionar reserva</alojamiento>
+	</encargado>
+</escapada>

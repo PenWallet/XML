@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actores>
+	<pelicula nombre="Interstellar">
+		<nombre>Matthew McConaughey</nombre>
+		<fecha_nac>04/09/1969</fecha_nac>
+		<nacionalidad>Estadounidense</nacionalidad>
+	</pelicula>
+	<pelicula nombre="La lista de Schindler">
+		<nombre>Liam Neeson</nombre>
+		<fecha_nac>07/06/1952</fecha_nac>
+		<nacionalidad>Irlandés</nacionalidad>
+	</pelicula>
+	<pelicula nombre="El día de la marmota"A>
+		<nombre>Bill Murray</nombre>
+		<fecha_nac>21/10/1950</fecha_nac>
+		<nacionalidad>Estadounidense</nacionalidad>
+	</pelicula>
+</actores>

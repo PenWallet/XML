@@ -1,0 +1,54 @@
+<actividades>
+	<tipos>
+		<talleres>
+			<autoestima>
+				<curso>
+					<ciudad>Sevilla</ciudad>
+					<fecha>20/1/2017</fecha>
+					<responsables>Laura</responsables>
+					<codigo>AE17001</codigo>
+				</curso>
+				<curso>
+					<ciudad>Cordoba</ciudad>
+					<fecha>24/1/2016</fecha>
+					<responsables>Elina, Teresa, Alfonso</responsables>
+					<codigo>AE17002</codigo>
+				</curso>
+			</autoestima>
+			<defenss_personal>
+				<curso>
+					<ciudad>Huelva</ciudad>
+					<fecha>16/1/2016</fecha>
+					<responsables>Miguel</responsables>
+					<codigo>DP17001</codigo>
+				</curso>
+				<curso>
+					<ciudad>Cadiz</ciudad>
+					<fecha>22/1/2017</fecha>
+					<responsables></responsables>
+					<codigo>DP17002</codigo>
+				</curso>
+				<curso>
+					<ciudad>Malaga</ciudad>
+					<fecha>4/2/2017</fecha>
+					<responsables>Miguel, Rosa</responsables>
+					<codigo>DP17003</codigo>
+				</curso>
+			</defenss_personal>
+			<marco_legal>
+				<curso>
+					<ciudad>Sevilla</ciudad>
+					<fecha>11/2/2017</fecha>
+					<responsables>Sofia</responsables>
+					<codigo>ML17001</codigo>
+				</curso>
+				<curso>
+					<ciudad>Granada</ciudad>
+					<fecha>19/02/2017</fecha>
+					<responsables>Ramon, Laura</responsables>
+					<codigo>ML17002</codigo>
+				</curso>
+			</marco_legal>
+		</talleres>
+	</tipos>
+</actividades>

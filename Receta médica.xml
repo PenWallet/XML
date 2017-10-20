@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<receta>
+	<tipo>Receta simple</tipo>
+	<medico>Dra. Casimira Novená</medico>
+	<colegiado>045121</colegiado>
+	<fecha>21/05/2017</fecha>
+	<medicamento>
+		<nombre>Budesonida</nombre>
+		<marca>Aldo-Unión</marca>
+		<presentacion>Spray nasal 64µg/pulv. 120 dosis</presentacion>
+	</medicamento>
+	<texto>El paciente presenta síntomas de congestión nasal, por lo que se le
+	receta un spray a usar una vez en cada fosa nasal cada 8 horas. </texto>
+	<alternativas>
+		<elemento>Utabon. Oximetazolina. Mismo prodecimiento.</elemento>
+		<elemento>Iliadin. Oximetazolina. Mismo procedimiento.</elemento>
+		<elemento>Vaho. Inhalar vapores de agua caliente con gotas de eucalipto durante 10 mins.</elemento>
+	</alternativas>
+	<final>Si el problema persiste, pase a dos vaporizaciones en cada fosa nasal cada 8 horas.
+	Si el problema persistiese, vuelva a pedir cita con la misma doctora.</final>
+</receta>

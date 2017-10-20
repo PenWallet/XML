@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<peliculas>
+	<elemento numero="1">
+		<nombre>Interstellar</nombre>
+		<director>Christopher Nolan</director>
+		<duracion>169 minutos</duracion>
+		<protagonista>Cooper</protagonista>
+	</elemento>
+	<elemento numero="2">
+		<nombre>La lista de Schindler</nombre>
+		<director>Steven Spielberg</director>
+		<duracion> 195 minutos</duracion>
+		<protagonista>Oskar Schindler</protagonista>
+	</elemento>
+	<elemento numero="3">
+		<nombre>El día de la marmota</nombre>
+		<director>Harold Ramis</director>
+		<duracion>105 minutos</duracion>
+		<protagonista>Phil</protagonista>
+	</elemento>
+</peliculas>

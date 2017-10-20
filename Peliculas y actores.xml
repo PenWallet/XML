@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<todo xmlns:pel="https://www.penwallet.es/Peliculas.xml" xmlns:act="https://www.penwallet.es/Actores.xml">
+	<pel:pelicula numero="1">
+		<pel:nombre>Interstellar</pel:nombre>
+		<pel:director>Christopher Nolan</pel:director>
+		<pel:duracion>169 minutos</pel:duracion>
+		<pel:protagonista>Cooper</pel:protagonista>
+		<act:actor nombre="Interstellar">
+			<act:nombre>Matthew McConaughey</act:nombre>
+			<act:fecha_nac>04/09/1969</act:fecha_nac>
+			<act:nacionalidad>Estadounidense</act:nacionalidad>
+		</act:actor>
+		<num_copias>8125546</num_copias>
+		<soporte>DVD, CD, Blu-Ray, Tostadoras, Váteres inteligentes japoneses kawaii desu ne Corp.</soporte>
+	</pel:pelicula>
+	<pel:pelicula numero="2">
+		<pel:nombre>La lista de Schindler</pel:nombre>
+		<pel:director>Steven Spielberg</pel:director>
+		<pel:duracion> 195 minutos</pel:duracion>
+		<pel:protagonista>Oskar Schindler</pel:protagonista>
+		<act:actor nombre="La lista de Schindler">
+			<act:nombre>Liam Neeson</act:nombre>
+			<act:fecha_nac>07/06/1952</act:fecha_nac>
+			<act:nacionalidad>Irlandes</act:nacionalidad>
+		</act:actor>
+		<num_copias>42</num_copias>
+		<soporte>VHS, Nintendo Switch, Commodore 64</soporte>
+	</pel:pelicula>
+	<pel:pelicula numero="3">
+		<pel:nombre>El día de la marmota</pel:nombre>
+		<pel:director>Harold Ramis</pel:director>
+		<pel:duracion>105 minutos</pel:duracion>
+		<pel:protagonista>Phil</pel:protagonista>
+		<act:actor nombre="El día de la marmota">
+			<act:nombre>Bill Murray</act:nombre>
+			<act:fecha_nac>21/10/1950</act:fecha_nac>
+			<act:nacionalidad>Estadounidense</act:nacionalidad>
+		</act:actor>
+		<num_copias>1334</num_copias>
+		<soporte>Lavadoras Philips, Aires Acondicionados Fujitsu, Nintendo DSi Lite</soporte>
+	</pel:pelicula>
+</todo>

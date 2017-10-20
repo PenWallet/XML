@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<explotaciones xmlns:bic="http://ciclo.iesnervion.es/pluginfile.php/1747/mod_page/content/5/Bichos.xml" xmlns:gra="http://ciclo.iesnervion.es/pluginfile.php/1747/mod_page/content/5/Granjas.xml">
+	<gra:granja id="15" nombre="La era">
+		<gra:propietario>El tito</gra:propietario>
+		<gra:regadio/>
+		<gra:superficie unidad="fanegas">
+			<gra:campo>5</gra:campo>
+			<gra:corrales>0,7</gra:corrales>
+		</gra:superficie>
+		<bic:animales>
+			<bic:animal nombre="vaca">
+				<bic:tipo>Bovino</bic:tipo>
+				<bic:alimentacion>Pienso</bic:alimentacion>
+				<bic:alimentacion>Pasto</bic:alimentacion>
+				<bic:produccion>
+					<bic:producto>Leche</bic:producto>
+						<producción año="2015" unidad="litros">78946</producción>
+						<produccion año="2016" unidad="litros">99165</produccion>
+					<bic:producto>Carne</bic:producto>
+						<producción año="2015" unidad="kilogramos">16239</producción>
+						<produccion año="2016" unidad="kilogramos">20087</produccion>
+				</bic:produccion>
+			</bic:animal>
+			<bic:animal nombre="avestruz">
+				<bic:tipo>Ave</bic:tipo>
+				<bic:alimentacion>pienso</bic:alimentacion>
+				<bic:alimentacion>bichos</bic:alimentacion>
+				<bic:produccion>
+					<bic:producto>plumas</bic:producto>
+						<producción año="2015">1266 Kg</producción>
+						<produccion año="2016">1999 Kg</produccion>
+					<bic:producto>huevos</bic:producto>
+						<producción año="2015">6168</producción>
+						<produccion año="2016">8495</produccion>
+					<bic:producto>carne</bic:producto>
+						<producción año="2015">25148 Kg</producción>
+						<produccion año="2016">1648 Kg</produccion>
+				</bic:produccion>
+			</bic:animal>
+			<bic:animal nombre="cerdo">
+				<bic:tipo>porcino</bic:tipo>
+				<bic:alimentacion>pienso</bic:alimentacion>
+				<bic:alimentacion>varios</bic:alimentacion>
+				<bic:produccion>
+					<bic:producto>carne</bic:producto>
+						<producción año="2015">78 Kg</producción>
+						<produccion año="2016">666 Kg</produccion>
+				</bic:produccion>
+			</bic:animal>
+		</bic:animales>
+	</gra:granja>
+	<granja id="20" nombre="El Majuelo">
+		<propietario>Gumersinda Masco</propietario>
+		<superficie unidad="fanegas">
+			<campo>15</campo>
+			<corrales>2,1</corrales>
+		</superficie>
+		<bic:animales>
+			<bic:animal nombre="cerdo">
+				<bic:tipo>porcino</bic:tipo>
+				<bic:alimentacion>pienso</bic:alimentacion>
+				<bic:alimentacion>varios</bic:alimentacion>
+				<bic:produccion>
+					<bic:producto>carne</bic:producto>
+						<producción año="2015">645 Kg</producción>
+						<produccion año="2016">41526 Kg</produccion>
+				</bic:produccion>
+			</bic:animal>
+			<bic:animal nombre="gallina">
+				<bic:tipo>ave</bic:tipo>
+				<bic:alimentacion>pienso</bic:alimentacion>
+				<bic:produccion>
+					<bic:producto>huevos</bic:producto>
+						<producción año="2015">61574</producción>
+						<produccion año="2016">6312</produccion>
+					<bic:producto>carne</bic:producto>
+						<producción año="2015">14856 Kg</producción>
+						<produccion año="2016">1574 Kg</produccion>
+				</bic:produccion>
+			</bic:animal>
+			<bic:animal nombre="caballo">
+				<bic:tipo>equino</bic:tipo>
+				<bic:alimentacion>pienso</bic:alimentacion>
+				<bic:alimentacion>paja</bic:alimentacion>
+				<bic:produccion>
+					<bic:producto>transporte</bic:producto>
+						<producción año="2015">5663 Km</producción>
+						<produccion año="2016">8947 Km</produccion>
+					<bic:producto>carne</bic:producto>
+						<producción año="2015">7418 Kg</producción>
+						<produccion año="2016">5748 Kg</produccion>
+				</bic:produccion>
+			</bic:animal>
+		</bic:animales>
+	</granja>
+	<granja id="41" nombre="Trinca piñas">
+		<propietario>Eufrasio Nista</propietario>
+		<regadio/>
+		<superficie unidad="metros">
+			<campo>14000</campo>
+			<corrales>3200</corrales>
+		</superficie>
+		<bic:animeles>
+			<bic:animal nombre="caballo">
+				<bic:tipo>equino</bic:tipo>
+				<bic:alimentacion>pienso</bic:alimentacion>
+				<bic:alimentacion>paja</bic:alimentacion>
+				<bic:produccion>
+					<bic:producto>transporte</bic:producto>
+						<producción año="2015">1222 Km</producción>
+						<produccion año="2016">7455 Km</produccion>
+					<bic:producto>carne</bic:producto>
+						<producción año="2015">5237 Kg</producción>
+						<produccion año="2016">8572 Kg</produccion>
+				</bic:produccion>
+			</bic:animal>
+			<bic:animal nombre="caracol">
+				<bic:tipo>gasteropodo</bic:tipo>
+				<bic:alimentacion>cosas de caracoles</bic:alimentacion>
+				<bic:produccion>
+					<bic:producto>baba</bic:producto>
+						<producción año="2015">874 L</producción>
+						<produccion año="2016">1985 L</produccion>
+					<bic:producto>carne</bic:producto>
+						<producción año="2015">1647 Kg</producción>
+						<produccion año="2016">5411 Kg</produccion>
+				</bic:produccion>
+			</bic:animal>
+			<bic:animal nombre="avestruz">
+				<bic:tipo>Ave</bic:tipo>
+				<bic:alimentacion>pienso</bic:alimentacion>
+				<bic:alimentacion>bichos</bic:alimentacion>
+				<bic:produccion>
+					<bic:producto>plumas</bic:producto>
+						<producción año="2015">267 Kg</producción>
+						<produccion año="2016">977 Kg</produccion>
+					<bic:producto>huevos</bic:producto>
+						<producción año="2015">1584</producción>
+						<produccion año="2016">5221</produccion>
+					<bic:producto>carne</bic:producto>
+						<producción año="2015">8169 Kg</producción>
+						<produccion año="2016">6122 Kg</produccion>
+				</bic:produccion>
+			</bic:animal>
+			<bic:animal nombre="gallina">
+				<bic:tipo>ave</bic:tipo>
+				<bic:alimentacion>pienso</bic:alimentacion>
+				<bic:produccion>
+					<bic:producto>huevos</bic:producto>
+						<producción año="2015">7418</producción>
+						<produccion año="2016">5748</produccion>
+					<bic:producto>carne</bic:producto>
+						<producción año="2015">6178 Kg</producción>
+						<produccion año="2016">6455 Kg</produccion>
+				</bic:produccion>
+			</bic:animal>
+		</bic:animeles>
+	</granja>
+</explotaciones>
