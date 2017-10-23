@@ -2,37 +2,40 @@
 <escapada>
 	<encargado n="1">
 		<nombre>Lina</nombre>
-		<viaje>Revisar la furgoneta</viaje>
-		<surf></surf>
-		<barbacoa>Verduras y Salsa</barbacoa>
-		<alojamiento>Gestionar reserva. Quedar con el propietario. Obtener la ubicacion</alojamiento>
+		<viaje tarea="1">Revisar la furgoneta</viaje>
+		<barbacoa tarea="1">Verduras</barbacoa>
+		<barbacoa tarea="2">Salsa</barbacoa>
+		<alojamiento tarea="1">Gestionar reserva</alojamiento> 
+		<alojamiento tarea="2">Quedar con el propietario.</alojamiento>
+		<alojamiento tarea="3">Obtener la ubicacion</alojamiento>
 	</encargado>
 	<encargado n="2">
 		<nombre>Mauricio</nombre>
-		<viaje></viaje>
-		<surf>Buscar spots cercanos</surf>
-		<barbacoa>Carbon. Pastillas para encender</barbacoa>
-		<alojamiento>Sabanas</alojamiento>
+		<surf tarea="1">Buscar spots cercanos</surf>
+		<barbacoa tarea="1">Carbon</barbacoa>
+		<barbacoa tarea="2">Pastillas para encender</barbacoa>
+		<alojamiento tarea="1">Sabanas</alojamiento>
 	</encargado>
 	<encargado n="3">
 		<nombre>Esteban</nombre>
-		<viaje>Limpiar la furgo al final</viaje>
-		<surf>Mirar prevision</surf>
-		<barbacoa></barbacoa>
-		<alojamiento>Toallas. Sabanas</alojamiento>
+		<viaje tarea="1">Limpiar la furgo al final</viaje>
+		<surf tarea="1">Mirar prevision</surf>
+		<alojamiento tarea="1">Toallas</alojamiento>
+		<alojamiento tarea="2">Sabanas</alojamiento>
 	</encargado>
 	<encargado n="4">
 		<nombre>Elena</nombre>
-		<viaje>Preparar GPS</viaje>
-		<surf>Tablas</surf>
-		<barbacoa>Carne</barbacoa>
-		<alojamiento>Localizar tiendas cercanas. Localizar sitios de interes para visitar</alojamiento>
+		<viaje tarea="1">Preparar GPS</viaje>
+		<surf tarea="1">Tablas</surf>
+		<barbacoa tarea="1">Carne</barbacoa>
+		<alojamiento tarea="1">Localizar tiendas cercanas</alojamiento>
+		<alojamiento tarea="2">Localizar sitios de interes para visitar</alojamiento>
 	</encargado>
 	<encargado n="5">
 		<nombre>Rosa</nombre>
-		<viaje>Gestionar el dinero</viaje>
-		<surf>Tablas</surf>
-		<barbacoa>Pan</barbacoa>
-		<alojamiento>Gestionar reserva</alojamiento>
+		<viaje tarea="1">Gestionar el dinero</viaje>
+		<surf tarea="1">Tablas</surf>
+		<barbacoa tarea="1">Pan</barbacoa>
+		<alojamiento tarea="1">Gestionar reserva</alojamiento>
 	</encargado>
 </escapada>
