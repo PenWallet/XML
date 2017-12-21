@@ -8,9 +8,9 @@
 	<pelicula nombre="La lista de Schindler">
 		<nombre>Liam Neeson</nombre>
 		<fecha_nac>07/06/1952</fecha_nac>
-		<nacionalidad>Irlandés</nacionalidad>
+		<nacionalidad>Irlandes</nacionalidad>
 	</pelicula>
-	<pelicula nombre="El día de la marmota"A>
+	<pelicula nombre="El dia de la marmota"A>
 		<nombre>Bill Murray</nombre>
 		<fecha_nac>21/10/1950</fecha_nac>
 		<nacionalidad>Estadounidense</nacionalidad>

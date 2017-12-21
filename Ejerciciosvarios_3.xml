@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<evolucionanual>
+	<ano numero="2016">
+		<mes nombre="Enero">
+			<general>-0.3</general>
+			<subyacente>0.9</subyacente>
+		</mes>
+		<mes nombre="Febrero">
+			<general>-0.6</general>
+			<subyacente>1.0</subyacente>
+		</mes>
+		<mes nombre="Marzo">
+			<general>-0.8</general>
+			<subyacente>0.9</subyacente>
+		</mes>
+		<mes nombre="Abril">
+			<general>-1.1</general>
+			<subyacente>1.1</subyacente>
+		</mes>
+		<mes nombre="Mayo">
+			<general>-1.0</general>
+			<subyacente>0.7</subyacente>
+		</mes>
+		<mes nombre="Junio">
+			<general>-0.8</general>
+			<subyacente>0.7</subyacente>
+		</mes>
+		<mes nombre="Julio">
+			<general>-0.6</general>
+			<subyacente>0.9</subyacente>
+		</mes>
+		<mes nombre="Agosto">
+			<general>-0.1</general>
+			<subyacente>0.6</subyacente>
+		</mes>
+		<mes nombre="Septiembre">
+			<general>0.2</general>
+			<subyacente>0.9</subyacente>
+		</mes>
+		<mes nombre="Octubre">
+			<general>0.7</general>
+			<subyacente>0.9</subyacente>
+		</mes>
+		<mes nombre="Noviembre">
+			<general>0.7</general>
+			<subyacente>0.9</subyacente>
+		</mes>
+		<mes nombre="Diciembre">
+			<general>0.8</general>
+			<subyacente>0.9</subyacente>
+		</mes>
+	</ano>	
+</evolucionanual>
