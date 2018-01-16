@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.maduritascalientes.com/">
+
+<xs:element name="aduana">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name="pais de origen" type="xs:string"/>
+			<xs:element name="valor declarado" type="xs:double"/>
+			<xs:element name="tipo de contenido" type="xs:string"/>
+			<xs:element name="fecha de envio" type="xs:date"/>
+		</xs:sequence>
+	</xs:complexType>
+</xs:element>
+
+</xs:schema>
