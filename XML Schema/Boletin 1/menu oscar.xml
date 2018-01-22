@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu>
+	<primer_plato>Caviar</primer_plato>
+	<segundo_plato>Langosta Thermidor</segundo_plato>
+	<postre>Yeray</postre>
+	<bebida>Nectar de David</bebida>
+	<categoria>Carisimo</categoria>
+	<precio>19999.99</precio>
+</menu>
