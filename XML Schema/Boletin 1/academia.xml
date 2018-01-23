@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="academia">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name="idioma" type="xs:string"/>
+			<xs:element name="nivel" type="xs:string"/>
+			<xs:element name="fecha_inicio" type="xs:date"/>
+			<xs:element name="duracion" type="xs:int"/>
+			<xs:element name="publico_objetivo" type="xs:string"/>
+			<xs:element name="nivel_requerido" type="xs:int"/>
+			<xs:element name="precio" type="xs:double"/>
+			<xs:element name="sesiones_semana" type="xs:int"/>
+			<xs:element name="duracion_sesiones" type="xs:int"/>
+		</xs:sequence>
+	</xs:complexType>
+</xs:element>
+</xs:schema>
