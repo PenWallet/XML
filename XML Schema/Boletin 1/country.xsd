@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="menu">
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name="primer_plato" type="xs:string"/>
+			<xs:element name="segundo_plato" type="xs:string"/>
+			<xs:element name="postre" type="xs:string"/>
+			<xs:element name="bebida" type="xs:string"/>
+			<xs:element name="categoria" type="xs:string"/>
+			<xs:element name="precio" type="xs:double"/>
+		</xs:sequence>
+	</xs:complexType>
+</xs:element>
+</xs:schema>
