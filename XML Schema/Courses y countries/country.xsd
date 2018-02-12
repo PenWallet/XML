@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+<xs:element name="countries">
+	<complexType>
+		<complexContent>
+			<sequence>
+				<xsd:element name="language">
+				   <xsd:complexType>
+					  <xsd:attribute name="percentage" type="xsd:integer"/>
+				   </xsd:complexType>
+				</xsd:element>
+				<xsd:element name="city">
+					<xsd:complexType>
+						<xsd:element name="name" type="xsd:string"/>
+						<xsd:element name="population" type="xsd:integer"/>
+					</xsd:complexType>
+				</xsd:element>
+			</sequence>
+		</complexContent>
+	</complexType>
+</xs:element>
+</xs:schema>
