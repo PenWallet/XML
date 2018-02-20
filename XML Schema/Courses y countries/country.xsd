@@ -1,22 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
 <xs:element name="countries">
-	<complexType>
-		<complexContent>
-			<sequence>
-				<xsd:element name="language">
-				   <xsd:complexType>
-					  <xsd:attribute name="percentage" type="xsd:integer"/>
-				   </xsd:complexType>
-				</xsd:element>
-				<xsd:element name="city">
-					<xsd:complexType>
-						<xsd:element name="name" type="xsd:string"/>
-						<xsd:element name="population" type="xsd:integer"/>
-					</xsd:complexType>
-				</xsd:element>
-			</sequence>
-		</complexContent>
-	</complexType>
+	<xs:complexType>
+		<xs:sequence>
+			<xs:element name="country" maxOccurs="unbounded">
+			   <xs:complexType>
+					<xs:sequence>
+						<xs:element name = "city" minOccurs="0">
+							<xs:complexType>
+								<xs:sequence>
+									<xs:element name="name" type="xs:string"/>
+									<xs:element name="population" type="xs:integer"/>
+								</xs:sequence>
+							</xs:complexType>
+						</xs:element>
+						<xs:element name = "language">
+							<xs:complexType>
+								<xs:simpleContent>
+									<xs:extension base="xs:string">
+										<xs:attribute name ="percentage" type="xs:float" use="optional"/>
+									</xs:extension>
+								</xs:simpleContent>
+							</xs:complexType>
+						</xs:element>
+					</xs:sequence>
+					<xs:attribute name="name" type="xs:string"/>
+					<xs:attribute name="population" type="xs:integer"/>
+					<xs:attribute name="area" type="xs:float"/>
+			   </xs:complexType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
 </xs:element>
 </xs:schema>
