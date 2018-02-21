@@ -2,20 +2,22 @@
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
 	<xs:element name="helado">
 		<xs:complexType>
-			<xs:element name="sabor"/>
+			<xs:element name="sabor">
 				<xs:simpleType>
 					<xs:restriction base="xs:string" maxOccurs="1">
 						<xs:enumeration value="chocolate"/>
 						<xs:enumeration value="fresa"/>
 					</xs:restriction>
 				</xs:simpleType>
-			<xs:element name="formato" maxOccurs="1"/>
+			</xs:element>
+			<xs:element name="formato" maxOccurs="1">
 				<xs:simpleType>
 					<xs:restriction base="xs:string">
 						<xs:enumeration value="cono"/>
 						<xs:enumeration value="tarrina"/>
 					</xs:restriction>
 				</xs:simpleType>
+			</xs:element>
 		</xs:complexType>
 	</xs:element>
 </xs:schema>
