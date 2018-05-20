@@ -1,0 +1,54 @@
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng" yahoo:count="1" yahoo:created="2018-05-20T13:11:14Z" yahoo:lang="es-ES">
+	<results>
+		<channel>
+			<yweather:units xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" distance="mi" pressure="in" speed="mph" temperature="F"/>
+			<title>Yahoo! Weather - Seville, Andalusia, ES</title>
+			<link>
+			http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-774508/
+			</link>
+			<description>Yahoo! Weather for Seville, Andalusia, ES</description>
+			<language>en-us</language>
+			<lastBuildDate>Sun, 20 May 2018 03:11 PM CEST</lastBuildDate>
+			<ttl>60</ttl>
+			<yweather:location xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" city="Seville" country="Spain" region=" Andalusia"/>
+			<yweather:wind xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" chill="73" direction="305" speed="7"/>
+			<yweather:atmosphere xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" humidity="56" pressure="1008.0" rising="0" visibility="16.1"/>
+			<yweather:astronomy xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" sunrise="7:11 am" sunset="9:31 pm"/>
+			<image>
+			<title>Yahoo! Weather</title>
+			<width>142</width>
+			<height>18</height>
+			<link>http://weather.yahoo.com</link>
+			<url>
+			http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif
+			</url>
+			</image>
+			<item>
+				<title>
+				Conditions for Seville, Andalusia, ES at 01:00 PM CEST
+				</title>
+				<geo:lat xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">37.385639</geo:lat>
+				<geo:long xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#">-5.96845</geo:long>
+				<link>
+				http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-774508/
+				</link>
+				<pubDate>Sun, 20 May 2018 01:00 PM CEST</pubDate>
+				<yweather:condition xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="28" date="Sun, 20 May 2018 01:00 PM CEST" temp="73" text="Mostly Cloudy"/>
+				<yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="47" date="20 May 2018" day="Sun" high="77" low="61" text="Scattered Thunderstorms"/>
+				<yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="39" date="21 May 2018" day="Mon" high="76" low="60" text="Scattered Showers"/>
+				<yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="30" date="22 May 2018" day="Tue" high="80" low="58" text="Partly Cloudy"/>
+				<yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="12" date="23 May 2018" day="Wed" high="81" low="55" text="Rain"/>
+				<yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="11" date="24 May 2018" day="Thu" high="71" low="59" text="Showers"/>
+				<yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="30" date="25 May 2018" day="Fri" high="71" low="57" text="Partly Cloudy"/>
+				<yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="30" date="26 May 2018" day="Sat" high="74" low="54" text="Partly Cloudy"/>
+				<yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="30" date="27 May 2018" day="Sun" high="73" low="53" text="Partly Cloudy"/>
+				<yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="30" date="28 May 2018" day="Mon" high="69" low="52" text="Partly Cloudy"/>
+				<yweather:forecast xmlns:yweather="http://xml.weather.yahoo.com/ns/rss/1.0" code="30" date="29 May 2018" day="Tue" high="73" low="56" text="Partly Cloudy"/>
+				<description>
+				<![CDATA[<img src="http://l.yimg.com/a/i/us/we/52/28.gif"/> <BR /> <b>Current Conditions:</b> <BR />Mostly Cloudy <BR /> <BR /> <b>Forecast:</b> <BR /> Sun - Scattered Thunderstorms. High: 77Low: 61 <BR /> Mon - Scattered Showers. High: 76Low: 60 <BR /> Tue - Partly Cloudy. High: 80Low: 58 <BR /> Wed - Rain. High: 81Low: 55 <BR /> Thu - Showers. High: 71Low: 59 <BR /> <BR /> <a href="http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-774508/">Full Forecast at Yahoo! Weather</a> <BR /> <BR /> <BR /> ]]>
+				</description>
+				<guid isPermaLink="false"/>
+			</item>
+		</channel>
+	</results>
+</query>

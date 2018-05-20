@@ -1,0 +1,4 @@
+/query/results/channel[*[name()="yweather:location"]/@city="Seville"]/*[name()="yweather:astronomy"]/@sunrise
+/query/results/channel[*[name()="yweather:location"]/@city="Seville"]/item/*[name()="yweather:forecast"][@text="Partly Cloudy"]/@date
+
+Como la sunrise de su cara
